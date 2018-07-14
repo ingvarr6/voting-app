@@ -1,0 +1,15 @@
+{
+  "apiPrefix": "http://127.0.0.1:3000",
+  "serverPort": "8080",
+  "db": {
+    "user": "vote_user",
+    "password": "1478963abc",
+    "host": "ds013290.mlab.com",
+    "name": "votes-app",
+    "port": 13290
+  },
+  "twitter": {
+    "CONSUMER_KEY": "JXALV5ENvo4e5hn6r5zxvRKiD",
+    "CONSUMER_SECRET": "TBUrQBZqL3Hnz0TpK0pNrQNwMBtjldJ6Wq4MootsbdRwo5O6EE"
+  }
+}

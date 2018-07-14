@@ -1,0 +1,15 @@
+{
+  "apiPrefix": "server_url",
+  "serverPort": "3001",
+  "db": {
+    "user": "user",
+    "password": "password",
+    "host": "db_url",
+    "name": "db_name",
+    "port": port
+  },
+  "twitter": {
+    "CONSUMER_KEY": "",
+    "CONSUMER_SECRET": ""
+  }
+}
